@@ -4,6 +4,8 @@
 
 (define first-point `(0 0))
 
+(define iterations 4000)
+
 ;; following the "Computer generation" section of
 ;; https://en.wikipedia.org/wiki/Barnsley_fern
 (define (next-step p)
@@ -29,5 +31,8 @@
           #:color "ForestGreen"
           #:size 2))
 
-(plot (barnsley-fern 40000) #:x-min -3 #:x-max 3)
+(plot (barnsley-fern iterations) #:x-min -3 #:x-max 3)
 
+(plot-file (barnsley-fern iterations)
+           (string-append "images/barnsley-fern-" (~v iterations) ".png")
+           #:x-min -3 #:x-max 3)
