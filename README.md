@@ -4,7 +4,8 @@ Simple visualizations of Barnsley Ferns and a "mutant" variation that looks like
 
 ## Examples
 
-Please see the images/ folder to see some example output!
+![Barnsley fern with 40000 iterations](https://github.com/dansusman/fractals/blob/main/images/barnsley-fern-40000.png)
+![Thelypteridaceae fern with 40000 iterations](https://github.com/dansusman/fractals/blob/main/images/mutant-fern-40000.png)
 
 ## References
 
