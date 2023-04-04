@@ -12,5 +12,5 @@ Simple visualizations of Barnsley Ferns and a "mutant" variation that looks like
 - https://en.wikipedia.org/wiki/Barnsley_fern
 - https://en.wikipedia.org/wiki/Thelypteridaceae
 - https://www.youtube.com/watch?v=xoXe0AljUMA
-- 
+- https://www.algorithm-archive.org/contents/barnsley/barnsley.html
 
