@@ -4,7 +4,7 @@
 
 (define first-point `(0 0))
 
-(define iterations 4000)
+(define iterations 40000)
 
 ;; following the "Computer generation" section of
 ;; https://en.wikipedia.org/wiki/Barnsley_fern
